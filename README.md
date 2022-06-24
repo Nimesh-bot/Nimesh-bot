@@ -3,7 +3,7 @@ I develop frontned for the websites using React Js. I mostly use Javascript and 
 
 Some Links to my works are:
 1. https://handlemypaper.com/
-2. https://vyakta.netlify.app/ (Backend is currently down due to heroku problems)
+2. https://vyakta.netlify.app/
 3. https://digi-school.netlify.app/
 4. https://beta.theukcolleges.com/
 5. https://lemmatron-dapp-coral.vercel.app/ (only changed few components and stylings)
