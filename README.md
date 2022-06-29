@@ -5,7 +5,7 @@ Some Links to my works are:
 1. https://handlemypaper.com/
 2. https://vyakta.netlify.app/ (dummy app to learn api integration, thus states arent managed :( )
 3. https://digi-school.netlify.app/
-4. https://beta.theukcolleges.com/
+4. https://theukcolleges.com/
 5. https://lemmatron-dapp-coral.vercel.app/ (only changed few components and stylings)
 6. https://insightapodcast.com/ (progress)
 7. https://sunwayshow.netlify.app/ (progress)
