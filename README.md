@@ -39,7 +39,7 @@
  
  <br>
 
-<div align="center">
+<div align="left">
  <!-- <img hight="300" width="500" alt="GIF" align="center" src="https://github.com/prabalbhandari04/prabalbhandari04/blob/main/assets/tommy-walking-pathos.gif"> -->
 
 <h3 align="left">Languages and Tools:</h3>
