@@ -31,7 +31,6 @@
 
 <br>
 <div align="left">
-    🌱 I’m currently learning React Native and C++ <br>
     👨‍💻 All the projects I have been involved in can be explored through from my <a href='https://www.nimesh-shakya.com.np/' target="_blank" rel="noreferrer">Portfolio Website</a><br>
     💬 Ask me about React and Next Js<br>
     📫 Reach me @ somit409@gmail.com<br>
